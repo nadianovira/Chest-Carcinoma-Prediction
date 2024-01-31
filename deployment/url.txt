@@ -1,0 +1,2 @@
+https://huggingface.co/spaces/nadianovira/gc7
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
